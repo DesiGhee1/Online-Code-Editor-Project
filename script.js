@@ -9,7 +9,7 @@ const compile = () => {
         code.open();
         code.writeIn(
             "Hello"
-        )
+        );
 
 
     }
