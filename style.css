@@ -1,4 +1,13 @@
 textarea{
     width: 30%;
     height: 250px;
+    padding: 10px;
+    margin: 10px;
+    background-color: orchid;
+}
+
+iframe{
+    width: 100%;
+    height: 400px;
+    margin-top: 20px;
 }
